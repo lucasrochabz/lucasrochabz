@@ -1,4 +1,12 @@
-### Hi there 👋
+### Olá, meu nome é Lucas Rocha! 👋
+
+<p align="left">
+  <strong>Desenvolvedor Front-end.</strong>
+</p>
+
+<p align="left">
+  Tecnologias: HTML, CSS, JavaScript e React.
+</p>
 
 <!--
 **lucasrochabz/lucasrochabz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
