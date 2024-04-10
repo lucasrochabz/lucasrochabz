@@ -4,9 +4,7 @@
   <strong>Desenvolvedor Front-end.</strong>
 </p>
 
-<p align="left">
-  Tecnologias: HTML, CSS, JavaScript e React.
-</p>
+  Desenvolvo projetos utilizando tecnologias como **HTML**, **CSS** e **JavaScript** para aplicativos web.
 
 <!--
 **lucasrochabz/lucasrochabz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
