@@ -1,4 +1,4 @@
-### Olá, sou Lucas Rocha! 👋
+## Olá, sou Lucas Rocha! 👋
 
 Sou um **Desenvolvedor Front-end** dedicado e apaixonado por criar experiências incríveis na web.
 
