@@ -1,13 +1,17 @@
 ### Olá, sou Lucas Rocha! 👋
+<hr>
 
-Sou um Desenvolvedor Front-end dedicado e apaixonado por criar experiências incríveis na web. Meu foco principal está em utilizar tecnologias como **HTML**, **CSS** e **JavaScript** para desenvolver aplicativos web que se destacam pela sua usabilidade e design.
+Sou um **Desenvolvedor Front-end** dedicado e apaixonado por criar experiências incríveis na web.
 
-Estou constantemente buscando:
+**Tecnologias:**
+- HTML, CSS e JavaScript.
+
+**Busco constantemente:**
 
 - Aprender e **aprimorar** minhas habilidades.
-- Manter-me **atualizado** com as últimas tendências e melhores práticas no mundo do desenvolvimento web.
+- Manter-me **atualizado** com as últimas tendências e melhores práticas no desenvolvimento web.
 
-Seja bem-vindo à minha pasta do GitHub, onde **compartilho** meus projetos e contribuições para a comunidade de desenvolvimento. 🚀
+Seja bem-vindo à minha pasta do GitHub, onde **compartilho** projetos e contribuições para a comunidade de desenvolvimento. 🚀
 
 <!--
 **lucasrochabz/lucasrochabz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
