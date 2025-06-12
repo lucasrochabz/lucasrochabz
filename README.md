@@ -7,12 +7,14 @@ Sou um **Desenvolvedor Full Stack** apaixonado por transformar ideias em soluç�
 🖥️ **Front-end:** HTML, CSS, JavaScript, React  
 ⚙️ **Back-end:** Node.js, Express, Sequelize  
 🛢️ **Banco de Dados:** MySQL  
+🐳 **DevOps & Ferramentas:** Docker  
+🧪 **Testes:** Vitest  
 
 ### O que me motiva?
 
 🚀 Aprender e evoluir constantemente  
-💡 Criar aplicações escaláveis e de alto desempenho  
-📌 Manter-me atualizado com as melhores práticas e tecnologias do mercado  
+🔧 Criar aplicações escaláveis e de alto desempenho  
+📚 Manter-me atualizado com as melhores práticas e tecnologias do mercado  
 
 Aqui no GitHub, compartilho projetos, ideias e contribuições para a comunidade. Seja bem-vindo! 😃
 
