@@ -5,9 +5,13 @@ Sou um **Desenvolvedor Full Stack** apaixonado por transformar ideias em soluç�
 ### Tecnologias:
 
 🖥️ **Front-end:** HTML, CSS, JavaScript, React  
+
 ⚙️ **Back-end:** Node.js, Express, Sequelize  
+
 🛢️ **Banco de Dados:** MySQL  
+
 🐳 **DevOps & Ferramentas:** Docker  
+
 🧪 **Testes:** Vitest  
 
 ### O que me motiva?
